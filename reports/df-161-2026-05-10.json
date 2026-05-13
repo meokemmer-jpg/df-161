@@ -1,0 +1,16 @@
+{
+  "df": "DF-161",
+  "documents_stale_30d": 0,
+  "documents_stale_90d": 0,
+  "documents_total": 0,
+  "fresh_documents_pct": 0,
+  "iso_timestamp": "2026-05-10T11:07:34+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "oldest_document": "",
+  "source": "mock",
+  "welle": "25"
+}
