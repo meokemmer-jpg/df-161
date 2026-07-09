@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLLOW",
+  "reason": "Der Test importiert und prueft ein anderes Engine-Interface mit Lock/API/Keyword-Funktionen statt die Dokument-Freshness-Funktionalitaet aus 161.py mit adversarialen Dateien, Alter, Critical- und Orphan-Gegenfaellen zu beweisen.",
+  "ts": "2026-07-08T15:08:07.703234+00:00"
+}
